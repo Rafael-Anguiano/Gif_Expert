@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Tests in file AddCategory should  1`] = `
+exports[`Tests in file AddCategory should match with snapshot 1`] = `
 <form
   onSubmit={[Function]}
 >
